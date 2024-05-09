@@ -1,6 +1,6 @@
 # Football Analysis System with Machine Learning and Computer Vision
 
-![Output Video](path/to/your/gif.gif)
+![Output Video](https://github.com/AnshChoudhary/Football-Tracking/blob/main/output_videos/output_video.gif)
 
 This repository contains a football analysis system that leverages machine learning, computer vision, and deep learning techniques to analyze football matches. The system utilizes state-of-the-art object detection models, custom object detectors, pixel segmentation, optical flow, perspective transformation, and speed-distance measurement to provide comprehensive insights into player movements and match dynamics.
 
