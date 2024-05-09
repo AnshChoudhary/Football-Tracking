@@ -1,4 +1,4 @@
-# Football Analysis System with Machine Learning and Computer Vision
+# Football Tracking using YOLOv5 and OpenCV
 
 ![Output Video](https://github.com/AnshChoudhary/Football-Tracking/blob/main/output_videos/output_video.gif)
 
