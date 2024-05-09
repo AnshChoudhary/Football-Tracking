@@ -1,4 +1,4 @@
-# Football Tracking using YOLOv5 and OpenCV
+# Football Tracking using YOLOv8 and OpenCV
 
 ![Output Video](https://github.com/AnshChoudhary/Football-Tracking/blob/main/output_videos/output_video.gif)
 
